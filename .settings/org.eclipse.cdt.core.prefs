@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/IDF_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/IDF_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/IDF_PATH/value=/home/oguiter/Devel/Espressif/ESP32/esp-idf
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/PATH/value=/home/oguiter/Devel/Espressif/ESP32/xtensa-esp32-elf/bin\:/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/lib/jvm/java-7-oracle/bin\:/usr/lib/jvm/java-7-oracle/db/bin\:/usr/lib/jvm/java-7-oracle/jre/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.858897160/appendContributed=true
